@@ -3,7 +3,7 @@
 Um site simples e eficiente para gerar **senhas seguras**, permitindo ao usuário personalizar o tamanho e os tipos de caracteres utilizados.
 
 🔗 **Acesse o site:**  
-https://SEU-SITE.netlify.app
+https://senhagerar.netlify.app/
 
 ---
 
