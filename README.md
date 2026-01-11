@@ -4,6 +4,16 @@ Um site simples e eficiente para gerar **senhas seguras**, permitindo ao usuári
 
 🔗 **Acesse o site:**  
 https://senhagerar.netlify.app/
+---
+
+
+
+
+<img width="1919" height="927" alt="Captura de tela 2026-01-11 191903" src="https://github.com/user-attachments/assets/3383e8b5-17f6-41bd-9ade-8c87f056072e" />
+
+
+
+
 
 ---
 
